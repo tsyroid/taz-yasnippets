@@ -1,0 +1,64 @@
+
+---
+TITLE: [Lastname, Firstname {TITLE/NICK/LOCATION}]
+CREATED: YYYY-MM-DD @ HH:MM
+REVISED: YYYY-MM-DD @ HH:MM
+TAGS: #tag1 #tag2
+---
+
+## FIRST LAST, TITLE
+## ORGANIZATION, LOCATION
+Brief notes,
+More brief notes
+
+COMPANY
+ADDRESS 1
+ADDRESS 2
+CITY, PROV
+POSTAL
+
+EMAIL:
+PHONE: XXX.XXX.XXXX
+
+### NOTES
+
+<!-- EXAMPLE
+---
+Title: [[Alscher, Kim MA RCC]]
+Created: 2021-11-29 @ 10:27
+Revised: 2021-11-29 @ 10:50
+Tags: #therapist #hsp
+---
+
+## Kim Alscher, MA RCC
+Registered Clinical Counsellor
+Specializes in HSP work and research
+
+
+Burnaby Counselling and Psychotherapy
+SOLO District
+Unit 900 - 2025 Willingdon Avenue  
+Burnaby, BC
+V5C 0J3
+
+Email: kimalscher@gmail.com
+Phone: 604.779.4945
+
+### Notes
+[Burnaby Counselling and Psychotherapy (kimalscher.ca)](https://www.kimalscher.ca/)
+--> END EXAMPLE
+
+
+<!-- REF
+:PROPERTIES:
+:MAIN: $0
+:GITHUB:
+:NEWS:
+:DOCS:
+:WIKI:
+:BLOG:
+:DOWNLOAD:
+:END:
+-->
+<!-- CREATED: `(format-time-string "%b %d %Y")` -->
+<!-- CREATED: `(format-time-string "%Y-%m-%d %a %H:%M")` -->

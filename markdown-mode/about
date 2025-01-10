@@ -1,0 +1,38 @@
+# -*- mode: snippet -*-
+# name: about
+# key: <about
+# --
+---
+:PROPERTIES:
+:MAIN:
+:GITHUB:
+:NEWS:
+:DOCS:
+:WIKI:
+:BLOG:
+:DOWNLOAD:
+:END:
+---
+
+# ABOUT $0
+
+
+
+
+# WRITING
+# ARTICLES
+# VIDEOS
+# PROJECTS
+# NOTES
+# RELATED
+
+
+
+
+<!--
+  #+TITLE: About: ${1:about}
+  #+AUTHOR: Taz Syroid (taz@syroidmanor.com)
+  #+DATE: `(format-time-string "%b %d %Y")`
+-->
+
+<!--- EOF --->

@@ -1,0 +1,29 @@
+# -*- mode: snippet -*-
+# name: template-daily
+# key: <dnt
+# --
+#+TITLE: Daily Notes - `(format-time-string "%Y.%m.%d")`
+#+AUTHOR: Taz Syroid (taz@syroidmanor.com)
+#+DATE: <`(format-time-string "%Y-%m-%d %a %H:%M")`>
+#+STARTUP: logdone
+#+TAGS: daily todo
+#+OPTIONS:
+
+
+* HOUSEHOLD [/]
+** TODO $0
+
+* IT
+* FINANCIALS
+* NOTEABLE URLS
+* VIDEOS (Watched)
+
+* LOOKING-AHEAD
+
+- [ ] Decision: Costco membership (\$65/YR) [2024-02-28]
+- [ ] Decision: Amazon Prime (\$99/YR) [2025-04-15]
+- [ ] Rent: Trevor Bourdeau (\$950/MTH) [2025-02-01]
+- [ ] Bill: Telus Mobility [2025-02-02] = \$77.20
+- [ ] Bill: Telus Home [2025-01-07] = \$61.60
+
+# --- EOF --- #

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sym-arrow-right
+# key: arrr
+# --
+→$0

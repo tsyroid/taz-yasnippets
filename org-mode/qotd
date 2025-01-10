@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Insert QOTD (Quote of The Day)
+# key: <iqotd
+# --
+
+* QOTD
+#+BEGIN_QUOTE
+  $0
+#+END_QUOTE
+

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: current-time
+# key: /tick
+# --
+`(current-time-string)`

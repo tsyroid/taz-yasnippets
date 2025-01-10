@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ins-quote-block
+# key: <iquote
+# --
+
+#+BEGIN_QUOTE
+  $0
+#+END_QUOTE

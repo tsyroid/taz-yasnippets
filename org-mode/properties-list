@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: properties
+# key: <pt
+# --
+
+:PROPERTIES:
+:MAIN:
+:GITHUB:
+:NEWS:
+:DOCUMENTATION:
+:WIKI:
+:BLOG:
+:END:

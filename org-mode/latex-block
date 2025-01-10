@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ins-latex-block
+# key: <olatex
+# --
+
+#+BEGIN_EXPORT latex
+$0
+#+END_EXPORT

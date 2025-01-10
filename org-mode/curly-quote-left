@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: curly-quote-left
+# key: lcq
+# --
+ $0

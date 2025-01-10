@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Insert WOTD (Word of The Day)
+# key: <iwotd
+# --
+
+* WOTD
+#+BEGIN_EXAMPLE
+~${1:word}~
+/${2:pronounciation}/
+**${3:type}**
+1. ${4:def1}
+2. ${5:def2}
+#+END_EXAMPLE
+

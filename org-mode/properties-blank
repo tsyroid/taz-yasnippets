@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ins-prop-mt
+# key: <iprop
+# --
+
+:PROPERTIES:
+$0
+:END:

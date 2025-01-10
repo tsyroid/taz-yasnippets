@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: curly-quote-right
+# key: rcq
+# --
+ $0
