@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: yasnippet
+# key: <snip
+# --
+# -*- mode: snippet -*-
+# name: {$1:name}
+# key: {$2:keybind}
+# --
+$0

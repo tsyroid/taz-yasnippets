@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: testcr
+# key: /cr
+# --
+##################################
+# Author: ${1:Taz}
+# Filename: `(file-name-nondirectory (buffer-file-name))`
+# Copyright `(format-time-string "%Y")` Taz Syroid (TZS)
+# ################################
