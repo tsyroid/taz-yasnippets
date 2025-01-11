@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: template-scratchpad
+# key: <spad
+# --
+#+TITLE: Scratchpad - `(format-time-string "%Y.%m.%d")`
+#+AUTHOR: Taz Syroid (taz@syroidmanor.com)
+#+DATE: <`(format-time-string "%Y-%m-%d %a %H:%M")`>
+#+OPTIONS:
+#+STARTUP:
+
+$0
+
