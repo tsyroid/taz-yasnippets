@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: ins-latex-block
-# key: <olatex
+# name: Insert LaTeX Block
+# key: <ilatex
 # --
 
 #+BEGIN_EXPORT latex
