@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: ins-title-date
+# name: Insert Title & Date
 # key: <t
 # --
 #+TITLE: ${1:title}

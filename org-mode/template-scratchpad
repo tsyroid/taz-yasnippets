@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: template-scratchpad
+# name: Document Template: Scratchpad
 # key: <spad
 # --
 #+TITLE: Scratchpad - `(format-time-string "%Y.%m.%d")`

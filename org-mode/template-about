@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: template-about
+# name: Document Template: About
 # key: <abt
 # --
 #+TITLE: About: ${1:about}

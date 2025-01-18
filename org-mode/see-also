@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: see-also
+# name: See Also
 # key: <see
 # --
 #+SEE-ALSO: $0

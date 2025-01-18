@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: template-daily
+# name: Document Template: Daily
 # key: <dnt
 # --
 #+TITLE: Daily Notes - `(format-time-string "%Y.%m.%d")`
@@ -24,6 +24,6 @@
 - [ ] Decision: Amazon Prime (\$99/YR) [2025-04-15]
 - [ ] Rent: Trevor Bourdeau (\$950/MTH) [2025-02-01]
 - [ ] Bill: Telus Mobility [2025-02-02] = \$77.20
-- [ ] Bill: Telus Home [2025-01-07] = \$61.60
+- [ ] Bill: Telus Home [2025-02-06] = \$61.60
 
 # --- EOF --- #

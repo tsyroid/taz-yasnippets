@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: verse
+# name: Insert Verse Block
 # key: <v
 # --
 #+begin_verse
