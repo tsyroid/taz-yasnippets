@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: Document Template: Book Notes
+# contributor: Tom Syroid <tsyroid@gmail.com>
+# key: <bookn
+# --
+---
+#+TITLE: $2
+#+ISBN: {1:ISBN}
+#+CREATED: `(format-time-string "%Y-%m-%d @ %H:%M")`
+#+REVISED: `(format-time-string "%Y-%m-%d @ %H:%M")`
+#+TAGS: #{$4:tag1} #{$5:tag2}
+
+* ${2:Title}
+by *** ${3:Author}
+
+** Summary
+
+$0
+
+** Quotes
+
+** Notes
+
+
+
+** >>> EOF <<<
