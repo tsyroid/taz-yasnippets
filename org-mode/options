@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: options
+# name: Property Options
 # key: <op
 # --
 #+options: h:${1:1} num:${2:t||nil} toc:${3:t||nil}$0

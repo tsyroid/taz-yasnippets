@@ -5,7 +5,7 @@
 # --
 ---
 #+TITLE: $2
-#+ISBN: {1:ISBN}
+#+ISBN: ${1:ISBN}
 #+CREATED: `(format-time-string "%Y-%m-%d @ %H:%M")`
 #+REVISED: `(format-time-string "%Y-%m-%d @ %H:%M")`
 #+TAGS: #{$4:tag1} #{$5:tag2}

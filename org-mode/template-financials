@@ -1,0 +1,36 @@
+# -*- mode: snippet -*-
+# name: Document Template: Financials
+# key: <ft
+# --
+#+TITLE: Financials - `(format-time-string "%Y.%m.%d")`
+#+AUTHOR: Taz Syroid (taz@syroidmanor.com)
+#+DATE: <`(format-time-string "%Y-%m-%d %a %H:%M")`>
+#+STARTUP: logdone
+#+TAGS: finance
+#+OPTIONS:
+
+* Financials - `(format-time-string %A %d, %Y)'
+**MTH-END-SUMMARY**
+
+* ACCOUNTS
+** Simplii, Chequing: $ ${1:$$}
+** Simplii, Savings: $ ${2:$$}
+** Coast Capital, Chequing: $$0
+** Coast Capital, Savings: $
+** EQ Bank, Account: $1001.92
+** EQ Bank, Card: $1.29
+** Tangerine: $0.00 :DORMANT:
+
+** Misc, Visa Deposit: $1000.00
+** Misc, Ledger: $2,667.90 ($2728.21 Dec 30, 2024)
+** Misc, Paypal: $30.00
+
+* CASH  
+  $20.00
+
+* PENDING
+** [ ] Decision: Costco membership? [2024-02-28]
+** [ ] Decision: Amazon Prime? [2025-04-15]
+** [ ] Bill: Telus Mobility
+** [ ] Bill: Telus Home [2025-02-06]
+** [ ] Rent: [2025-01-30]
